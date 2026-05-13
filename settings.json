@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Op307.aternos.me",
-    "port": 33444,
+    "ip": "Hipixel-VR1V.aternos.me",
+    "port": 51397,
     "version": "1.21.11"
   },
   "position": {
@@ -81,7 +81,7 @@
     "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
     "events": {
       "connect": true,
-      "disconnect":false
+      "disconnect":true
     
     }
   },
